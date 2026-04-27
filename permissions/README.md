@@ -10,3 +10,4 @@ Holberton School project covering Linux permissions and shell scripting.
 - `3-new_owner`: Script that changes the owner of the file `hello` to the user `betty`.
 - `4-empty`: Script that creates an empty file called `hello`.
 - `5-execute`: Script that adds execute permission to the owner of the file `hello`.
+- `6-multiple_permissions`: Script that adds execute permission to the owner and group, and read permission to others, for the file `hello`.
