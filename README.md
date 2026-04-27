@@ -12,3 +12,4 @@ Holberton School project covering Linux permissions and shell scripting.
 - `5-execute`: Script that adds execute permission to the owner of the file `hello`.
 - `6-multiple_permissions`: Script that adds execute permission to the owner and group, and read permission to others, for the file `hello`.
 - `7-everybody`: Script that adds execute permission to the owner, group, and other users for the file `hello`.
+- `8-James_Bond`: Script that sets permissions on `hello` to 007 (owner: none, group: none, other: rwx).
